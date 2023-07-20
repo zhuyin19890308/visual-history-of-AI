@@ -11,4 +11,4 @@
 
 蓬勃发展期：2011年至今
 
-![](./pics/AI Visual History.svg)
+![](./pics/AI Visual History.png)
