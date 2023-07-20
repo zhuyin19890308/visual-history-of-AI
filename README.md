@@ -11,4 +11,4 @@
 
 蓬勃发展期：2011年至今
 
-![](./pics/AI Visual History.png)
+![](https://github.com/zhuyin19890308/visual-history-of-AI/blob/main/pics/AI%20Visual%20History.png)
