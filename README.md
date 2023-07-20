@@ -14,3 +14,6 @@
 #### 二、技术路线简图
 
 ![](https://github.com/zhuyin19890308/visual-history-of-AI/blob/main/pics/AI%20Visual%20History.png)
+
+
+
